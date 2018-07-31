@@ -1,2 +1,5 @@
 # smath2018a
-Demo Repo Python Course
+
+Serious math for serious people
+
+Demonstration package
